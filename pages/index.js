@@ -18,7 +18,7 @@ export default function Home() {
       </Head>
       
       <main className={styles.main}>
-        <h2 className={styles.title}>Welcome to Coding Blogs!</h2>
+        <h2 className={styles.title}>Welcome to 'Code And Blog'!</h2>
         <Image className={styles.myImg} src='/homeimg.jpg' alt='' width={201} height={132}></Image>
         <p className={styles.description}>
           A website for getting coding solutions
