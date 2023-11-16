@@ -1,0 +1,32 @@
+.homeBlogContainer {
+    min-height: 100vh;
+    padding: 4rem 0;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+  }
+  .blogSummary {
+    margin-top: 2px;
+  }
+  .blogSummary h3 {
+    margin-top: 2px;
+    margin-bottom: 20px;
+    font-size: 40px;
+  }
+  
+  .blogContent {
+    margin-bottom: 30px;
+  }
+  .blogSummary p {
+    width: 840px;
+    margin-bottom: 30px;
+  }
+  
+  .readMoreLink {
+    color: #1f78df;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
